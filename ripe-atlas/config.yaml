@@ -2,7 +2,7 @@ name: "RIPE Atlas Probe"
 version: "1.0.0"
 slug: "ripe_atlas"
 description: "Run a RIPE Atlas software probe to contribute to Internet infrastructure measurements."
-url: "https://github.com/JosephBlock/HA-Atlas"
+url: "https://github.com/JosephBlock/HA-Apps"
 
 arch:
   - aarch64
