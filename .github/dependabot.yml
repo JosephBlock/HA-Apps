@@ -1,0 +1,12 @@
+version: 2
+updates:
+  - package-ecosystem: "docker"
+    directory: "/ripe-atlas"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: "chore(deps)"
+    labels:
+      - "dependencies"
+      - "docker"
