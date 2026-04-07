@@ -2,6 +2,9 @@
 
 Run a [RIPE Atlas](https://atlas.ripe.net/) software probe directly inside Home Assistant, contributing Internet measurements to the global RIPE Atlas network.
 
+Container image build and publishing are maintained in a separate repository:
+<https://github.com/JosephBlock/HA-Atlas>
+
 ## Installation
 
 1. Add the repository URL `https://github.com/JosephBlock/HA-Apps` to Home Assistant.
